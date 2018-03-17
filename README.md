@@ -5,9 +5,11 @@ t-distributed stochastic neighbor embedding (t-SNE) is a machine learning algori
 The formula to compute the similarity between two points xi,xj in the original space
 ![](pij.png)
 
-<br>
 The formula to compute the similarity between two points yi,yj in the new space
 ![](qij.png)
+
+
+
 
 The formula to compute the error between the two distributions by using Kl-divergence :
 ![](KL.png)
